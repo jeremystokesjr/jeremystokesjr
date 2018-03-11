@@ -34,7 +34,7 @@ html,*{
 	width: 100%;
 	height: 95%;
 	animation: fadeout;
-	animation-duration: 5s;
+	animation-duration: 10s;
 	animation-timing-function: ease-in;
 	opacity: 0;
 }
